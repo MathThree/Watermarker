@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3UusGMjgdLCbJU4+3sOkLmEN5N0vlfVjmCkM0Lt4CDVDrFO/7G3KcJIbdIShs2FJ5QijSGeZd5Xzg4HOlQoQiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mathieu\\OneDrive\\Documents\\Projets_perso\\Watermark\\Watermarker\\Watermarker\\Watermarker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mathieu\\.nuget\\packages\\sixlabors.fonts\\3.1.0\\sixlabors.fonts.3.1.0.nupkg.sha512",
+    "C:\\Users\\Mathieu\\.nuget\\packages\\sixlabors.imagesharp\\4.1.1\\sixlabors.imagesharp.4.1.1.nupkg.sha512",
+    "C:\\Users\\Mathieu\\.nuget\\packages\\sixlabors.imagesharp.drawing\\3.1.0\\sixlabors.imagesharp.drawing.3.1.0.nupkg.sha512",
+    "C:\\Users\\Mathieu\\.nuget\\packages\\sixlabors.polygonclipper\\1.0.1\\sixlabors.polygonclipper.1.0.1.nupkg.sha512",
+    "C:\\Users\\Mathieu\\.nuget\\packages\\system.io.hashing\\8.0.0\\system.io.hashing.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
